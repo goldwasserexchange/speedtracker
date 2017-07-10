@@ -55,19 +55,6 @@ wptKey: "06e041fb9efc3fecfd90ffd88c679987de9db29abae9825d57a413d0c549b83cf800"
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                             #
-#  > wptUrl                                                   (!) Encrypted   #
-#                                                                             #
-#  The URL for the WebPageTest server to be used in the tests. If you're      #
-#  running a private instance, uncomment the line and insert the URL to your  #
-#  WebPageTest server. You can leave it out if you use the public instance.   #
-#                                                                             #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-#wptUrl: "YOUR_ENCRYPTED_WPT_INSTANCE_URL"
-
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#                                                                             #
 #  > alerts                                                                   #
 #                                                                             #
 #  You can define alerts to be triggered when certain events occur (like a    #
